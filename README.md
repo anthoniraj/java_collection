@@ -1,7 +1,7 @@
 # Java Collection Framework
 - GitHub URL: `https://github.com/anthoniraj/java_collection`
 ## Anonymous Class
-- Annoymous class is an interface used inside another class without name.
+- Anonymous class is an interface used inside another class without name.
 - You can create only one object using anonymous class.
 ## Lambda Expression
 - Syntax

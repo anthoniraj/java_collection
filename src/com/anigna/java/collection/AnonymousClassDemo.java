@@ -1,6 +1,6 @@
 package com.anigna.java.collection;
 /**
- * Annonymous Inner Class and Lambda Demo
+ * Anonymous Inner Class and Lambda Demo
  * @author: Anthoniraj Amalanathan
  * @since 16-Apr-2022
  */
@@ -17,7 +17,7 @@ interface Calculator{
 
 public class AnonymousClassDemo{
     public static void main(String[] args) {
-       /* Annonymous Inner Class in Java */
+       /* Anonymous Inner Class in Java */
        Greeting greeting = new Greeting() {
             @Override
             public void display() {
